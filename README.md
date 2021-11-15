@@ -18,14 +18,12 @@ Based on our analysis, we can determine that:
     - Pewlett-Hackard will need to fill 90,398 positions over the course of the next few years during the wave of retirements. 
     - A majority of these in senior level positions. 
 
-
--	Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-
+- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+    - There are enough eligible retirement-ready employees to work within the mentorship program. 
+    - Currently, there are 1,549 employees eligible for the mentorship program. This will not be enough people to fill all of the positions so they will need to expand the eligibility requirements or decide on other new hires. 
 
 ![Mentorship_eligibility_table](https://github.com/MeredithTracy/Pewlett-Hackard-Analysis/blob/main/Analysis/Mentorship_eligibility_table.png)
 
-    - There are enough eligible retirement-ready employees to work within the mentorship program. 
-    - Currently, there are 1,549 employees eligible for the mentorship program. This will not be enough people to fill all of the positions so they will need to expand the eligibility requirements or decide on other new hires. 
 
 ## Opportunities for further analysis:
 - I would expect that budgeting would be critical to understand in the upcoming impact of the wave of retirements. As we saw in our analysis, there will be a lot of hiring done over the next few years and making sure your annual budget supports that or finding a way to manage that will be critical. 
