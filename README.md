@@ -4,9 +4,10 @@ Pewlett Hackard is looking to the future to prepare for the upcoming wave of pot
 
 ## Results
 Based on our analysis, we can determine that:
--	41,380 employees will be eligible for retirement based on their age. 
-![Retirement_by_title](https://github.com/MeredithTracy/Pewlett-Hackard-Analysis/blob/main/Analysis/Retirement_by_title.png)
+-	41,380 employees will be eligible for retirement based on their age.
 
+
+![Retirement_by_title](https://github.com/MeredithTracy/Pewlett-Hackard-Analysis/blob/main/Analysis/Retirement_by_title.png)
 
 -	Senior level positions will be impacted the most with 29,414 Senior Engineer positions and 28,254 Senior Staff positions. 
 -	Engineers and staff are also significantly impacted with 14,222 (engineers) and 12,243 (staff) positions coming available. 
@@ -19,6 +20,8 @@ Based on our analysis, we can determine that:
 
 
 -	Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+
 ![Mentorship_eligibility_table](https://github.com/MeredithTracy/Pewlett-Hackard-Analysis/blob/main/Analysis/Mentorship_eligibility_table.png)
 
     - There are enough eligible retirement-ready employees to work within the mentorship program. 
